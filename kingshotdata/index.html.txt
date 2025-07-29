@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <title>Kingshot Data</title>
+</head>
+<body>
+  <h1>👑 Kingshot 데이터 사이트</h1>
+  <p>지금 이곳에서 킹샷 영웅, 건물, 펫 데이터를 정리할 예정입니다!</p>
+</body>
+</html>
